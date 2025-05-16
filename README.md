@@ -10,7 +10,7 @@ Bu proje, basit bir oynanışa sahip küçük bir oyun. Amacım, temel oyun meka
 
 ## Nasıl Oynanır (Eğer Varsa)
 
-*(Oyununuz oynanabilir bir haldeyse buraya kısa bir açıklama ekleyebilirsiniz. Örneğin: "Karakteri hareket ettirmek için ok tuşlarını kullanın ve engellerden kaçının.")*
+*Karakteri hareket ettirmek için tuşları kullanın ve küpleri yok edin.
 
 ## İndirme (Eğer Build Aldıysanız)
 
